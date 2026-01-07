@@ -1,1 +1,1 @@
-# github-app-docs-sync
+# github-app-x-auth
